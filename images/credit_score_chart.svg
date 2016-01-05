@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="400"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   version="1.0"
+   sodipodi:docbase="C:\Dokumente und Einstellungen\pne\Eigene Dateien\Stuff\svg"
+   sodipodi:docname="Credit-score-chart.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="white"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="50"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="189.89784"
+     inkscape:cy="143.81184"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="600px"
+     height="400px"
+     showgrid="true"
+     gridspacingx="10px"
+     gridspacingy="10px"
+     gridempspacing="6"
+     gridoriginx="80px"
+     gridoriginy="80px"
+     inkscape:window-width="1280"
+     inkscape:window-height="938"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+        <dc:title>Credit score chart</dc:title>
+        <dc:date>2006-12-31</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Philip Newton</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>credit score</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>The approximate makeup of the FICO score Fair Isaac discloses to consumers</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Based on a JPEG file by Jennifer Godwin, http://en.wikipedia.org/wiki/Image:Credit-score-chart.jpg</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:language>en-US</dc:language>
+        <dc:source>http://en.wikipedia.org/wiki/Image:Credit-score-chart.jpg</dc:source>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Philip Newton</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#06c;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="sector-on-time-payments"
+       sodipodi:cx="160"
+       sodipodi:cy="240"
+       sodipodi:rx="120"
+       sodipodi:ry="120"
+       d="M 160,120 A 120,120 0 0 1 257.08204,310.53423 L 160,240 z"
+       sodipodi:start="4.712389"
+       sodipodi:end="6.9115038" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#c36;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="sector-capacity-used"
+       sodipodi:cx="160"
+       sodipodi:cy="240"
+       sodipodi:rx="120"
+       sodipodi:ry="120"
+       d="M 257.08204,310.53423 A 120,120 0 0 1 62.917962,310.53423 L 160,240 z"
+       sodipodi:start="0.62831853"
+       sodipodi:end="2.5132741" />
+    <path
+       sodipodi:type="arc"
+       style="fill:yellow;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="sector-length-of-credit-history"
+       sodipodi:cx="160"
+       sodipodi:cy="240"
+       sodipodi:rx="120"
+       sodipodi:ry="120"
+       d="M 62.917962,310.53423 A 120,120 0 0 1 45.873217,202.91796 L 160,240 z"
+       sodipodi:start="2.5132741"
+       sodipodi:end="3.4557519" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#6cf;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="sector-types-of-credit-used"
+       sodipodi:cx="160"
+       sodipodi:cy="240"
+       sodipodi:rx="120"
+       sodipodi:ry="120"
+       d="M 45.873217,202.91796 A 120,120 0 0 1 89.465765,142.91796 L 160,240 z"
+       sodipodi:start="3.4557519"
+       sodipodi:end="4.0840704" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#f6c;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="sector-past-credit-applications"
+       sodipodi:cx="160"
+       sodipodi:cy="240"
+       sodipodi:rx="120"
+       sodipodi:ry="120"
+       d="M 89.465765,142.91796 A 120,120 0 0 1 160,120 L 160,240 z"
+       sodipodi:start="4.0840704"
+       sodipodi:end="4.712389" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:bold;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="50"
+       y="60"
+       id="title-credit-score-factors"
+       inkscape:label="title-credit-score-factors"><tspan
+         sodipodi:role="line"
+         id="tspan7110"
+         x="50"
+         y="60">CREDIT SCORE FACTORS</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="box-explanation"
+       width="240"
+       height="280"
+       x="320"
+       y="80" />
+    <text
+       xml:space="preserve"
+       style="font-size:22;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="360"
+       y="116"
+       id="text-on-time-payments"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="360"
+         y="116"
+         id="tspan8003">On-time</tspan><tspan
+         sodipodi:role="line"
+         x="360"
+         y="138"
+         id="tspan10708">payments</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="360"
+       y="166"
+       id="text-capacity-used"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="360"
+         y="166"
+         id="tspan8009">Capacity</tspan><tspan
+         sodipodi:role="line"
+         x="360"
+         y="188"
+         id="tspan10710">used</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="360"
+       y="216"
+       id="text-length-of-credit-history"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="360"
+         y="216"
+         id="tspan8017">Length of</tspan><tspan
+         sodipodi:role="line"
+         x="360"
+         y="238"
+         id="tspan10712">credit history</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="360"
+       y="266"
+       id="text-types-of-credit-used"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="360"
+         y="266"
+         id="tspan8023">Types of</tspan><tspan
+         sodipodi:role="line"
+         x="360"
+         y="288"
+         id="tspan10714">credit used</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="360"
+       y="316"
+       id="text-past-credit-applications"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="360"
+         y="316"
+         id="tspan8029">Past credit</tspan><tspan
+         sodipodi:role="line"
+         x="360"
+         y="338"
+         id="tspan10716">applications</tspan></text>
+    <rect
+       style="fill:#06c;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="box-on-time-payments"
+       width="20"
+       height="20"
+       x="330"
+       y="110" />
+    <rect
+       style="fill:#c36;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="box-capacity-used"
+       width="20"
+       height="20"
+       x="330"
+       y="160" />
+    <rect
+       style="fill:yellow;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="box-length-of-credit-history"
+       width="20"
+       height="20"
+       x="330"
+       y="210" />
+    <rect
+       style="fill:#6cf;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="box-types-of-credit-used"
+       width="20"
+       height="20"
+       x="330"
+       y="260" />
+    <rect
+       style="fill:#f6c;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="box-past-credit-applications"
+       width="20"
+       height="20"
+       x="330"
+       y="310" />
+  </g>
+</svg>
