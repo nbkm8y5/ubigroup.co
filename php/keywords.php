@@ -9,11 +9,11 @@
  */
 class Keywords {
 
-    private $title = "<title>Home Loans South Florida - Providing mortgage information to first-time homebuyers and refinance</title>";
-    private $name = "Home Loans South Florida";
-    private $metaDescription = "<meta name='description' content='Home Loans South Florida provides information for first time homebuyers, specializing in FHA home loans, refinance of a home and information regarding the entire process of home buying.'>";
-    private $mainPageUrl = "http://homeloanssouthflorida.com";
-    private $redirectUrlUnique = "home-loans-south-florida";
+    private $title = "<title>UBI Group - Providing mortgage information to first-time homebuyers and refinance</title>";
+    private $name = "UBI Group";
+    private $metaDescription = "<meta name='description' content='UBI Group provides information for first time homebuyers, specializing in FHA home loans, refinance of a home and information regarding the entire process of home buying.'>";
+    private $mainPageUrl = "http://ubigroup.co";
+    private $redirectUrlUnique = "ubi-group";
     private $phoneNumber = "+1 (305) 310-9178";
     private $phoneLink = "callto://13053109178";
 

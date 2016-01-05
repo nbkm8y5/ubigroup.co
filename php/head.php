@@ -18,11 +18,11 @@ class Head {
     <meta name='author' content='http://rolandomoreno.com'>
     ";
     private $headCssLinks = "<!-- Latest compiled and minified CSS -->
-    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css'>
+    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css\" integrity=\"sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7\" crossorigin=\"anonymous\">
     <!-- Bootstrap -->
-    <link href='http://homeloanssouthflorida.com/css/bootstrap.min.css' rel='stylesheet'>
-    <link href='http://homeloanssouthflorida.com/css/style.css' rel='stylesheet'>
-    <link rel='icon' href='http://homeloanssouthflorida.com/images/home-loans-south-florida-icon.png'>
+    <!--<link href='http://ubigroup.co/css/bootstrap.min.css' rel='stylesheet'>-->
+    <link href='http://ubigroup.co/css/style.css' rel='stylesheet'>
+    <link rel='icon' href='http://ubigroup.co/images/home-loans-south-florida-icon.png'>
     ";
     private $headJsLinks = "<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
