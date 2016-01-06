@@ -2,23 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="461c8e6f-8196-4071-851e-5b1347ead197" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BingSiteAuth.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/private/config.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/private/private.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/private/private.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nbproject/project.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readme.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess_renamed" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/contact-home-loans-south-florida-for-more-information.php" afterPath="$PROJECT_DIR$/contact-ubi-group-for-more-information.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home-loans-south-florida-contact-confirmation.php" afterPath="$PROJECT_DIR$/ubi-group-contact-confirmation.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home-loans-south-florida-redirect.php" afterPath="$PROJECT_DIR$/ubi-group-redirect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/analyticstracking.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SOUTHFLORIDAHOMELOANS.COM MYSQL TERMINAL COMMANDS.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact-ubi-group-for-more-information.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/credit_score_chart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/department_of_housing_and_urban_development_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/family-home-loans.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/home-loan-refinance-south-florida.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/home-loans-south-florida-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/home_loans_south_florida_logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mortgage_calculator.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/orange-dotted.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php/analyticstracking.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php/contactFormReport.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php/contactFormSubmit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php/databaseConnection.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php/formHandler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php/head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php/keywords.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php/mailer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php/php_info.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php/scripts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ubi-group-contact-confirmation.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ubi-group-redirect.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/head.php" afterPath="$PROJECT_DIR$/php/head.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/keywords.php" afterPath="$PROJECT_DIR$/php/keywords.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/scripts.php" afterPath="$PROJECT_DIR$/php/scripts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
     </list>
     <ignored path="ubigroup.co.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,8 +55,18 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.5073746">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.048672568">
+              <caret line="163" column="103" selection-start-line="163" selection-start-column="103" selection-end-line="163" selection-end-column="103" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-81.375">
+              <caret line="202" column="22" selection-start-line="202" selection-start-column="22" selection-end-line="202" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -52,15 +74,27 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/php/scripts.php" />
-        <option value="$PROJECT_DIR$/php/head.php" />
         <option value="$PROJECT_DIR$/php/keywords.php" />
+        <option value="$PROJECT_DIR$/php/analyticstracking.php" />
+        <option value="$PROJECT_DIR$/php/head.php" />
+        <option value="$PROJECT_DIR$/php/scripts.php" />
+        <option value="$PROJECT_DIR$/includes/analyticstracking.php" />
+        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -141,7 +175,57 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ubigroup.co" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ubigroup.co" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ubigroup.co" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ubigroup.co" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2050_n_bay_rd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ubigroup.co" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ubigroup.co" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="630_leucadendra_dr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -150,11 +234,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bin/php/php5.6.10/bin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../homeloanssouthflorida.com" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/includes" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -208,7 +299,7 @@
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32328767" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -261,97 +352,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/analyticstracking.php">
+    <entry file="file://$PROJECT_DIR$/includes/analyticstracking.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.082746476">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.3761062">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding>
-            <marker date="1431276234000" expanded="true" signature="282:838" placeholder="..." />
-            <marker date="1431276234000" expanded="true" signature="332:617" placeholder="{...}" />
-            <marker date="1431276234000" expanded="true" signature="383:445" placeholder="{...}" />
-            <marker date="1431276234000" expanded="true" signature="910:1286" placeholder="..." />
-            <marker date="1431276234000" expanded="true" signature="912:1094" placeholder="/** Function that tracks a click on an outbound link in Google Analytics. ...*/" />
-            <marker date="1431276234000" expanded="true" signature="1133:1277" placeholder="{...}" />
-            <marker date="1431276234000" expanded="true" signature="1197:1273" placeholder="{...}" />
-            <marker date="1431276234000" expanded="true" signature="1230:1268" placeholder="{...}" />
+            <marker date="1452038603000" expanded="true" signature="282:682" placeholder="..." />
+            <marker date="1452038603000" expanded="true" signature="310:529" placeholder="{...}" />
+            <marker date="1452038603000" expanded="true" signature="361:401" placeholder="{...}" />
+            <marker date="1452038603000" expanded="true" signature="754:1130" placeholder="..." />
+            <marker date="1452038603000" expanded="true" signature="756:938" placeholder="/** Function that tracks a click on an outbound link in Google Analytics. ...*/" />
+            <marker date="1452038603000" expanded="true" signature="977:1121" placeholder="{...}" />
+            <marker date="1452038603000" expanded="true" signature="1041:1117" placeholder="{...}" />
+            <marker date="1452038603000" expanded="true" signature="1074:1112" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/contactFormReport.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1427757564000" expanded="true" signature="281:310" placeholder="SELECT * FRO... Customer_Info" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/contactFormSubmit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7165493">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1436921681000" expanded="true" signature="1207:1500" placeholder="INSERT INTO Customer_Info... " />
-          </folding>
-        </state>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/databaseConnection.php">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="4" column="2759" selection-start-line="4" selection-start-column="2753" selection-end-line="4" selection-end-column="2759" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/formHandler.php">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.6707747">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="4.275811">
+          <caret line="240" column="9" selection-start-line="240" selection-start-column="3" selection-end-line="240" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/head.php">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0682492">
-          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
-          <folding>
-            <marker date="1452015209000" expanded="true" signature="1522:1717" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/keywords.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7609891">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/php_info.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/scripts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31338027">
-          <caret line="15" column="95" selection-start-line="15" selection-start-column="95" selection-end-line="15" selection-end-column="95" />
+        <state vertical-scroll-proportion="-81.375">
+          <caret line="202" column="22" selection-start-line="202" selection-start-column="22" selection-end-line="202" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5073746">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.048672568">
+          <caret line="163" column="103" selection-start-line="163" selection-start-column="103" selection-end-line="163" selection-end-column="103" />
           <folding />
         </state>
       </provider>
